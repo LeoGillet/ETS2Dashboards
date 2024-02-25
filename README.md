@@ -18,7 +18,7 @@ A collection of SimHub dashboards intended to be used with Euro Truck Simulator 
 
 ### From the compiled release (Recommended)
 
-1. Grab the .simhubdash file(s) of your liking from the latest [release](https://github.com/LeoGillet/ETS2Dashboards/releases)
+1. Grab the .simhubdash file(s) of your liking from the latest [release](https://github.com/milokp/ETS2Dashboards/releases)
 
 >i.e. Mercedes New Actros : *ETS2Simple.-.Mercedes.New.Actros.simhubdash*
 
@@ -45,4 +45,4 @@ You should find the *ETS2Simple - Mercedes New Actros.djson* file as well as the
 
 ## Dashboard screenshots
 ### 1. Mercedes New Actros
-![enter image description here](https://leogillet.com/imghost/ets2dash/new_actros.png)
+![Screenshot of dashboard](screenshot.png)
