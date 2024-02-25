@@ -30,6 +30,7 @@ A SimHub dashboard intended for Euro Truck Simulator 2 telemetry.
 * Gear indicator which can be configured to display crawler gears and multiple reverse gears correctly
 * Gauges dim to indicate electricity/engine are off
 * Indicators for Cruise set and speed, low and high beams, parking break, retarder, engine break, check engine light, speed limit, and turn signals
+* Truck make, model, and plate number, and plate numbers for attached trailers
 
 ## Todo
 
@@ -41,7 +42,7 @@ A SimHub dashboard intended for Euro Truck Simulator 2 telemetry.
 * Test with makes and models of trucks:
   * Renault -T
   * Mercedes - New Actros
-* Odometer/Trip?
+* Odometer/Trip displays?
 
 ## What's outright not working, impossible, or problematic
 
