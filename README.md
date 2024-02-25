@@ -5,14 +5,15 @@ A SimHub dashboard intended for Euro Truck Simulator 2 telemetry.
 ## Installation Guide
 
 * **Download and install the latest release of [SimHub](https://www.simhubdash.com/)**
-* Download the [dash](ETS2Simple.sumhubdash) file
+
+* Download the [dash](ETS2Simple.simhubdash) file
 * Import the file into SimHub
 * Adjust the dashboard variable for Crawler gears, if your transmission has them, or use 0 if it does not.
 * Enjoy.
 
 
 ## Dashboard screenshots
-### 1. Mercedes New Actros
+
 ![Screenshot of dashboard](screenshot.png)
 
 ## Features
