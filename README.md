@@ -39,7 +39,7 @@ A SimHub dashboard intended for Euro Truck Simulator 2 telemetry.
   * Possibly make it a dashboard variable, like crawler gears
 * Buy American Truck Simulator and see what needs to be changed to work there? Graphic and units changes, of course
 * Make configurable for Metric/English units?
-* Test with makes and models of trucks:
+* Test with makes and models of trucks, currently tested:
   * Renault -T
   * Mercedes - New Actros
 * Odometer/Trip displays?
